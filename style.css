@@ -1,0 +1,341 @@
+@charset "UTF-8";
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+body{
+    background-color: aquamarine;
+}
+
+header{
+    background-color: black;
+    min-width: 320px;
+    width: 100%;
+    height: 11vh;
+    
+
+}
+
+
+
+
+
+nav{
+    text-align: center;
+    padding-top: 35px;
+    
+ 
+}
+a{
+    color: white;
+    text-decoration: none;
+    font-size: 1.5em;
+    margin: 15px;
+  
+    
+    
+
+}
+a:hover{
+    color: rgb(204, 0, 255);
+}
+section{
+    max-width: 100%;
+    height: 90vh;
+    
+}
+
+#pag1{
+    background-image: url(https://www.simonetto.ind.br/site/wp-content/uploads/2020/07/fundo-jogo-simo-adv.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+   
+   
+  
+
+}
+#pag1 h1{
+    font-size: 90px;
+    position: absolute;
+    left: 248px;
+    top: 157px;
+   
+    
+    color: rgb(190, 86, 250);
+}
+#pag1 b{
+    text-decoration: none;
+    font-size: 50px;
+    color: black;
+    
+}
+#pag1 h2{
+    position: absolute;
+    left: 369px;
+    top: 261px;
+  
+    font-size: 30px;
+    color: rgb(231, 231, 231); 
+}
+#pag1 h3{
+    position: absolute;
+    top: 7%;
+    left: 31%;
+   
+    font-size: 50px;
+    color: rgb(97, 253, 253);
+    
+}
+#pag1 button{
+    position: absolute;
+    left: 73%;
+    top: 39%;
+    background-color: rgb(91, 252, 252);
+    border-radius: 50px;
+    width: 17%;
+    height: 10vh;
+}
+
+
+
+
+#pag2{
+    background-color: black;
+    
+    
+}
+#pag2 h1{
+    font-size:3em ;
+    color: rgb(61, 255, 255);
+    text-align: center;
+}
+video{
+    width: 50%;
+    display: block;
+
+    margin-left: 480px;
+    padding-top: 40px;
+
+}
+#pag3{
+   margin-top: 10px;
+   background-color: black;
+   
+   
+    
+}
+#telalogin{
+    background-color: white;
+    width: 31%;
+    height: 40vh;
+    margin: 0px auto;
+    padding: 8px;
+    border-radius: 6px;
+    margin-top: 4%;
+    
+}
+
+
+#pag3 h1{
+    padding: 10px;
+    color: rgb(97, 253, 253);
+
+    text-align: center;
+    font-size: 2.3em;
+    border-bottom: 0.3px solid black;
+    
+  
+
+}
+
+#pag3 p{
+    line-height: 28px;
+    color: black;
+    
+    
+    
+}
+#iemail{
+    width: 96%;
+
+}
+#rodape{
+ 
+    margin-top: 10px;
+    
+}
+#link2{
+    color: black;
+    font-size: 1em;
+}
+#telalogin a:hover{
+    color: blueviolet;
+
+}
+#isenha{
+    width: 96%;
+
+}
+#imarc{
+    margin-top: 10px;
+}
+form{
+    margin-top: 10px;
+}
+button{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    margin-top: 18px;
+    background-color: rgb(91, 252, 252);
+    width: 98%;
+    height: 4vh;
+    border-radius: 20px;
+}
+
+#pag4{
+    margin-top: 10px;
+   background-color: black;
+   position: relative;
+   
+}
+table{
+    color: black;
+    background-color: white;
+    margin: auto;
+   
+    width: 31%;
+    height: 41vh;
+}
+th,td{
+    text-align: center;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+caption{
+    color: white;
+    font-size: 48px;
+    padding: 20px;
+
+}
+
+#buttondecadastro{
+    position: absolute;
+    left: 59%;
+    top: 67%;
+    background-color: rgb(91, 252, 252);
+    border-radius: 50px;
+    width: 17%;
+    height: 10vh;
+
+}
+
+
+
+
+
+#pag5{
+    background-color: black;
+    margin-top: 10px;
+    height: 90vh;
+    position: relative;
+}
+#pag5 h1{
+    color: rgb(97, 253, 253);
+    text-align: center;
+    font-size: 3em;
+}
+
+#pag5 p{
+    font-size: large;
+}
+
+
+
+#img1{
+    background-color: rgb(0, 255, 242);
+    width: 21%;
+    height: 60vh;
+    position: absolute;
+    top:107px;
+    left: 123px;
+}
+
+#img2{
+    background-color: rgb(0, 255, 234);
+    width: 21%;
+    height: 60vh;
+    position: absolute;
+    top:107px;
+    left: 1000px;
+}
+
+#img3{
+    background-color: rgb(0, 255, 242);
+    width: 21%;
+    height: 60vh;
+    position: absolute;
+    top:107px;
+    left: 547px;
+}
+img{
+    width: 100%;
+    
+}
+
+
+#pag6{
+    margin-top: 10px;
+  
+    position: relative;
+    background-color: black;
+   
+    width: 100%;
+    height: 90vh;
+
+    font-size: 30px;
+    
+}
+#pat{
+    width: 21%;
+    height: 60vh;
+    position: absolute;
+    top:107px;
+    left: 123px;
+    background-color: rgb(0, 255, 234);
+    
+    
+
+}
+#pat1{
+    width: 21%;
+    height: 60vh;
+    position: absolute;
+    top:107px;
+    left: 1220px;
+    background-color: rgb(0, 255, 213);
+ 
+}
+#pat2{
+    background-color: rgb(0, 255, 255);
+    background-color: rgb(2, 243, 211);
+    width: 21%;
+    height: 60vh;
+    position: absolute;
+    top:107px;
+    left: 670px;
+}
+
+    
+  
+
+
+
+
+
+    
+
+
+
