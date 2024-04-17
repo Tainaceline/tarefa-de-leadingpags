@@ -7,7 +7,7 @@
         background-color: black;
         max-width: 100%;
         margin: auto;
-        font-size: 0.5em;
+        font-size: 0.6em;
     }
     a{
         
@@ -18,13 +18,16 @@
         height: 90vh;
         
     }
+  
+    
     
     
     #pag1 h1{
         font-size: 63px;
         position: absolute;
         left: 20%;
-         top: 50%;
+        top: 35%;
+         
        
     }
     #pag1 b{
@@ -34,8 +37,8 @@
     }
     #pag1 h2{
         position: absolute;
-        left: 3%;
-        top: 40%;
+        left: 16%;
+        top: 50%;
         font-size: 30px;
     }
     #pag1 h3{
@@ -53,6 +56,7 @@
     }
     #pag2{
         position: relative;
+        height: 60vh;
     }
     #pag2 h1{
         font-size:2em ;
@@ -116,16 +120,16 @@
         width: 54%;
         height: 76vh;
         position: absolute;
-        top: 85px;
-        left: 137px;
+        top: 4.33%;
+        left: 24.67%;
     }
     
     #img2{
         width: 54%;
         height: 64vh;
         position: absolute;
-        top: 612px;
-        left: 137px;
+        top: 32%;
+        left: 24.67%;
     }
         
     
@@ -135,8 +139,8 @@
         width: 54%;
         height: 65vh;
         position: absolute;
-        top: 1067px;
-        left: 137px;
+        top:56% ;
+        left: 24.67%;
     }
     img{
         width: 100%;
@@ -156,8 +160,8 @@
         width: 54%;
         height: 76vh;
         position: absolute;
-        top: 85px;
-        left: 137px;
+        top: 4.33%;
+        left: 24.67%;
         
         
     
@@ -167,16 +171,16 @@
             width: 54%;
             height: 64vh;
             position: absolute;
-            top: 612px;
-            left: 137px;
+            top: 32%;
+            left: 24.67%;
      
     }
     #pat2{
         width: 54%;
         height: 65vh;
         position: absolute;
-        top: 1067px;
-        left: 137px;
+        top: 56%;
+        left: 24.67%;
     }
     
         
