@@ -1,0 +1,192 @@
+@media screen and (max-width:800px){
+    body{
+       max-height: 120vh;
+       font-family: Arial, Helvetica, sans-serif; 
+    }
+    header{
+        background-color: black;
+        max-width: 100%;
+        margin: auto;
+        font-size: 0.8em;
+    }
+    a{
+        
+        margin: 5px;
+    }
+    section{
+        max-width: 100%;
+        height: 90vh;
+        
+    }
+    
+    
+    #pag1 h1{
+        font-size: 63px;
+        position: absolute;
+        left: 102px;
+         top: 167px;
+       
+    }
+    #pag1 b{
+       
+        font-size: 30px;
+        
+    }
+    #pag1 h2{
+        position: absolute;
+        left: 102px;
+        top: 261px;
+        font-size: 30px;
+    }
+    #pag1 h3{
+        position: absolute;
+        top: 12%;
+        left: 18%;
+        font-size: 34px;  
+    }
+    #pag1 button{
+        position: absolute;
+        left: 73%;
+        top: 48%;
+        width: 25%;
+        height: 9vh;
+    }
+    #pag2{
+        position: relative;
+    }
+    #pag2 h1{
+        font-size:2em ;
+    }
+    video{
+        width: 80%;
+        position: absolute;
+        top: 60px;
+        left: -431px;
+    }
+    #pag3{
+       margin-top: 10px;
+       background-color: black;
+       
+       
+        
+    }
+    #telalogin{
+        width: 64%;
+        height: 42vh;
+       
+        
+    }
+    table{
+      
+       
+        width: 60%;
+      
+    }
+
+    
+    caption{
+       
+        font-size:  2em;
+      
+    
+    }
+    
+    #buttondecadastro{
+       
+        width: 32%;
+      
+    
+    }
+
+    #pag5{
+        background-color: black;
+        margin-top: 10px;
+        height: 300vh;
+        
+       
+       
+    }
+ 
+   
+    
+    
+    
+    #img1{
+      
+        width: 54%;
+        height: 76vh;
+        position: absolute;
+        top: 85px;
+        left: 137px;
+    }
+    
+    #img2{
+        width: 54%;
+        height: 64vh;
+        position: absolute;
+        top: 612px;
+        left: 137px;
+    }
+        
+    
+    
+    #img3{
+        
+        width: 54%;
+        height: 65vh;
+        position: absolute;
+        top: 1067px;
+        left: 137px;
+    }
+    img{
+        width: 100%;
+        
+    }
+
+    #pag6{
+        
+       
+       
+        height: 300vh;
+    
+        font-size: 30px;
+        
+    }
+    #pat{
+        width: 54%;
+        height: 76vh;
+        position: absolute;
+        top: 85px;
+        left: 137px;
+        
+        
+    
+    }
+    #pat1{
+        
+            width: 54%;
+            height: 64vh;
+            position: absolute;
+            top: 612px;
+            left: 137px;
+     
+    }
+    #pat2{
+        width: 54%;
+        height: 65vh;
+        position: absolute;
+        top: 1067px;
+        left: 137px;
+    }
+    
+        
+      
+    
+    
+        
+    }
+    
+    
+    
+
+    
