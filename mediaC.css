@@ -23,8 +23,8 @@
     #pag1 h1{
         font-size: 63px;
         position: absolute;
-        left: 102px;
-         top: 167px;
+        left: 20%;
+         top: 50%;
        
     }
     #pag1 b{
@@ -34,8 +34,8 @@
     }
     #pag1 h2{
         position: absolute;
-        left: 102px;
-        top: 261px;
+        left: 3%;
+        top: 40%;
         font-size: 30px;
     }
     #pag1 h3{
